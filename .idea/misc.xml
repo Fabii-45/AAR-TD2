@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/A_exemple1" />
+    <file type="web" url="file://$PROJECT_DIR$/A_exercice1" />
+    <file type="web" url="file://$PROJECT_DIR$/AA_exemple1bis" />
+    <file type="web" url="file://$PROJECT_DIR$/B_exemple2" />
+    <file type="web" url="file://$PROJECT_DIR$/C_exemple3" />
+    <file type="web" url="file://$PROJECT_DIR$/C_exercice3" />
+    <file type="web" url="file://$PROJECT_DIR$/D_exemple4" />
+    <file type="web" url="file://$PROJECT_DIR$/D_exercice4" />
+    <file type="web" url="file://$PROJECT_DIR$/E_exemple5" />
+    <file type="web" url="file://$PROJECT_DIR$/E_exercice5" />
+    <file type="web" url="file://$PROJECT_DIR$/F_exemple6" />
+    <file type="web" url="file://$PROJECT_DIR$/F_exercice6" />
+    <file type="web" url="file://$PROJECT_DIR$/G_exemple7" />
+    <file type="web" url="file://$PROJECT_DIR$/H_exemple8" />
+    <file type="web" url="file://$PROJECT_DIR$/I_exemple9" />
+    <file type="web" url="file://$PROJECT_DIR$/I_exercice9" />
+    <file type="web" url="file://$PROJECT_DIR$/J_exemple10" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_18" default="true" project-jdk-name="18" project-jdk-type="JavaSDK" />
+</project>
