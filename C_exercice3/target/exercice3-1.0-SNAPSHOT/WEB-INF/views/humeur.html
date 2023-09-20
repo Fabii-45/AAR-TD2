@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Humeur</title>
+</head>
+<body>
+  <h1>Humeur</h1>
+  <form method="post" action="#" th:action="@{/humeur}" th:object="${user}">
+    <select name="humeur">
+      <option>Content</option>
+      <option>Zehef</option>
+    </select>
+    <button type="submit">Envoyer</button>
+  </form>
+</body>
+</html>
